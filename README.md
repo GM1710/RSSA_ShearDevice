@@ -60,7 +60,7 @@ The following diagram shows the electrical connections for the Raspberry Pi- bas
 ### Citation
 If you use this software for research purposes, please cite:
 
-**"Rooted Soil Shear Apparatus: A low-cost, direct shear apparatus for measuring the influence of plant roots on soil shear strength"**, Sorrentino, G. et al., *HardwareX*, 2025.
+**"Rooted Soil Shear Apparatus: A low-cost, direct shear apparatus for measuring the influence of plant roots on soil shear strength"**, Sorrentino, G. et al., 2025.
 
 ---
 
