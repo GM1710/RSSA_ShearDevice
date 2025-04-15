@@ -3,7 +3,12 @@
 This Arduino sketch controls the stepper motor for the RSSA (Root-Soil Shear Assessment) device.  
 It enables basic motor commands such as direction, speed, and stop/start.
 
-![Wiring diagram](wiring_diagram_Arduino.png)
+---
+### Wiring Diagram
+
+The following diagram shows the electrical connections for the Arduino-based version of the device:
+
+![Wiring diagram for Arduino setup](wiring_diagram_Arduino.PNG)
 ---
 
 ### Citation
