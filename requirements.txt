@@ -1,0 +1,4 @@
+RPi.GPIO
+adafruit-circuitpython-mcp3xxx
+adafruit-blinka
+matplotlib
