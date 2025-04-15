@@ -65,4 +65,4 @@ If you use this software for research purposes, please cite:
 ---
 
 ### Author
-Dr. Gianmario Sorrentino
+Gianmario Sorrentino, Gerald Innocent Otim, Alena Zhelezova, and Irene Rocchi
