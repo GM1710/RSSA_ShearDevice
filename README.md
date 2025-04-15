@@ -14,6 +14,7 @@ The following diagram shows the electrical connections for the Arduino-based ver
 
 The Python script controls the stepper motor for the RSSA (Root-Soil Shear Assessment) device using the Raspberry Pi.
 It allows the user to interact with the device through a custom graphical user interface (GUI), providing functionalities such as motor speed control, direction control, and real-time sensor data monitoring. The software also facilitates real-time plotting of LVDT and load cell readings, offering immediate feedback on the shear test.
+
 ---
 ## Requirements
 Dependencies:
